@@ -1,117 +1,99 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C5CFF&center=true&vCenter=true&width=850&height=72&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Designing+modern+digital+experiences" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi, I'm ENAK221 👋</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C5CFF?style=for-the-badge&logo=react" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-5F7BFF?style=for-the-badge" alt="Stack badge" />
-  <img src="https://img.shields.io/badge/Location-France-0F172A?style=for-the-badge" alt="Location badge" />
-</p>
-
-<p align="center">
-  Je conçois des interfaces modernes, des produits utiles et des expériences web élégantes, rapides et claires.
-</p>
-
-<svg width="100%" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7C5CFF" />
-      <stop offset="50%" stop-color="#5F7BFF" />
-      <stop offset="100%" stop-color="#00C2FF" />
-    </linearGradient>
-  </defs>
-  <path d="M0 80C120 100 200 40 300 80C400 120 500 60 600 80C700 100 800 40 900 80C1000 120 1100 60 1200 80V120H0V80Z" fill="url(#grad)" opacity="0.18"/>
-  <path d="M0 90C120 110 220 50 320 90C420 130 520 70 620 90C720 110 820 50 920 90C1020 130 1120 70 1200 90" stroke="url(#grad)" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-dasharray" values="0 1200; 1200 0; 0 1200" dur="8s" repeatCount="indefinite"/>
-  </path>
-</svg>
-
----
-
-## 🚀 À propos
-
-Développeur web orienté produit et UX/UI, avec une forte attention au design, à la qualité du code et à l’expérience utilisateur.
-
-J'aime créer des projets qui allient :
-- design moderne et lisible
-- performance et structure
-- expérience fluide et claire
-- solutions utiles et esthétiques
-
----
-
-## 🧩 Projets phares
-
 <div align="center">
-  <a href="https://github.com/ENAK221/minachat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=minachat&theme=radical&hide_border=true" alt="Minachat" />
-  </a>
-  <a href="https://github.com/ENAK221/Edusphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=Edusphere&theme=radical&hide_border=true" alt="Edusphere" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:342A72,100:7C5CFF&height=220&section=header&text=Ousmane%20KANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20useful%20digital%20experiences&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Ousmane KANE header" />
+
+<a href="https://github.com/ENAK221"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=9B8AFB&center=true&vCenter=true&width=720&height=45&lines=React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Clean+interfaces.+Solid+architecture.;Turning+ideas+into+experiences." alt="Animated introduction" /></a>
+
+<p>
+  <a href="https://github.com/ENAK221?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://minachat.vercel.app"><img src="https://img.shields.io/badge/Visit_my_project-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit project" /></a>
+</p>
+
 </div>
 
+## 👋 Hello, I'm Ousmane
+
+I’m a **full-stack developer** focused on building polished web products with a strong balance between **visual quality, usability and maintainable code**.
+
+I enjoy turning ideas into responsive interfaces, connecting them to reliable backends and refining every detail that makes a product feel intuitive.
+
+```js
+const profile = {
+  focus: ["Full-stack development", "UI/UX", "Product thinking"],
+  currentlyBuilding: "Useful and elegant web experiences",
+  favoriteTools: ["React", "Node.js", "PostgreSQL"],
+  mindset: "Build with purpose. Design with clarity."
+};
+```
+
+## 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Minachat</h3>
+      <p>Modern social-inspired web application designed around a fluid and immersive user experience.</p>
+      <a href="https://github.com/ENAK221/minachat"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Edusphere</h3>
+      <p>TypeScript project focused on creating a clear, modern and accessible learning experience.</p>
+      <a href="https://github.com/ENAK221/Edusphere"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 My portfolio</h3>
+      <p>Personal portfolio with responsive layouts, dark visual identity and smooth interactions.</p>
+      <a href="https://github.com/ENAK221/My-portfolio"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✊ Chifoumi</h3>
+      <p>A simple JavaScript game built to practice interaction design and front-end fundamentals.</p>
+      <a href="https://github.com/ENAK221/Chifoumi"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Technologies
+
 <div align="center">
-  <a href="https://github.com/ENAK221/My-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=My-portfolio&theme=radical&hide_border=true" alt="My portfolio" />
-  </a>
-  <a href="https://github.com/ENAK221/Chifoumi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=Chifoumi&theme=radical&hide_border=true" alt="Chifoumi" />
-  </a>
+
+| Frontend | Backend & data | Tools & design |
+|:---:|:---:|:---:|
+| JavaScript · TypeScript | Node.js · Express | Git · GitHub |
+| React | PostgreSQL | Vite · ESLint |
+| Tailwind CSS | REST APIs | Figma |
+
 </div>
 
----
+## 📈 GitHub overview
 
-## 🛠️ Stack technique
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-## 📊 GitHub stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ENAK221&show_icons=true&hide_border=true&theme=transparent&title_color=9B8AFB&text_color=C7D2FE&icon_color=7C5CFF&ring_color=7C5CFF&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENAK221&layout=compact&hide_border=true&theme=transparent&title_color=9B8AFB&text_color=C7D2FE&langs_count=6" alt="Most used languages" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENAK221&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=ENAK221&theme=transparent&hide_border=true&ring=7C5CFF&fire=F59E0B&currStreakLabel=9B8AFB&sideLabels=C7D2FE&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENAK221&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
+## 🎯 What I care about
 
----
+- **Design:** interfaces that feel clear, intentional and pleasant to use.
+- **Engineering:** code that stays understandable, scalable and reliable.
+- **Performance:** fast experiences without sacrificing visual quality.
+- **Progress:** learning continuously and shipping better work every day.
 
-## ✨ Ce que je cherche à construire
+## 🤝 Let’s connect
 
-- interfaces web modernes et fluides
-- produits utiles et esthétiques
-- expériences utilisateur faciles à comprendre
-- projets full-stack avec une vraie valeur
-- designs qui allient fonction et élégance
+<div align="center">
+  <a href="https://github.com/ENAK221"><img src="https://img.shields.io/badge/GitHub-ENAK221-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://minachat.vercel.app"><img src="https://img.shields.io/badge/Project-minachat-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Minachat" /></a>
+</div>
 
----
+<br />
 
-## 🌐 Liens
-
-- Portfolio : https://minachat.vercel.app
-- GitHub : https://github.com/ENAK221
-- LinkedIn : https://www.linkedin.com/in/your-profile
-- Email : contact@your-domain.com
-
-> Mets tes vrais liens si tu veux personnaliser totalement le profil.
-
----
-
-<p align="center">
-  <b>Build with purpose. Design with clarity.</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:342A72,100:0B1020&height=110&section=footer" width="100%" alt="Decorative footer" />
+</div>
