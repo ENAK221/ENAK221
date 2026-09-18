@@ -1,139 +1,88 @@
 <div align="center">
 
-  <svg width="100%" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-        <stop offset="0%" stop-color="#0B1020"/>
-        <stop offset="40%" stop-color="#1B123A"/>
-        <stop offset="100%" stop-color="#7C5CFF"/>
-      </linearGradient>
-      <linearGradient id="line" x1="0" x2="1">
-        <stop offset="0%" stop-color="#8B5CF6"/>
-        <stop offset="50%" stop-color="#60A5FA"/>
-        <stop offset="100%" stop-color="#22D3EE"/>
-      </linearGradient>
-    </defs>
+# Ousmane KANE
 
-    <rect width="1200" height="220" rx="28" fill="url(#bg)"/>
-    <circle cx="1150" cy="40" r="120" fill="#7C5CFF" opacity="0.18"/>
-    <circle cx="1000" cy="180" r="150" fill="#22D3EE" opacity="0.08"/>
-    <circle cx="180" cy="120" r="90" fill="#8B5CF6" opacity="0.12"/>
+### Développeur Full-Stack · Interfaces modernes · Expériences utiles
 
-    <path d="M0 150C140 120 220 80 320 120C430 165 500 170 610 120C720 70 820 40 930 100C1030 156 1110 148 1200 120V220H0V150Z" fill="url(#line)" opacity="0.18"/>
-    <path d="M0 165C140 135 220 95 320 135C430 180 500 185 610 135C720 85 820 52 930 115C1030 171 1110 164 1200 137" stroke="url(#line)" stroke-width="4" stroke-linecap="round">
-      <animate attributeName="stroke-dasharray" values="0 1200; 1200 0; 0 1200" dur="10s" repeatCount="indefinite"/>
-    </path>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&height=42&lines=Je+transforme+des+id%C3%A9es+en+produits+web;React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Design+soign%C3%A9+%C2%B7+Code+maintenable+%C2%B7+UX+fluide" alt="Présentation animée" />
+</a>
 
-    <text x="600" y="105" text-anchor="middle" fill="#F8FAFC" font-size="42" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Ousmane KANE</text>
-    <text x="600" y="150" text-anchor="middle" fill="#C7D2FE" font-size="20" font-family="Segoe UI, Arial, sans-serif">Full-Stack Developer • UI/UX • Product Mindset</text>
-  </svg>
-
-  <a href="https://github.com/ENAK221">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=50&lines=React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Clean+interfaces.+Solid+architecture.;Building+useful+digital+experiences" alt="Animation de texte" />
-  </a>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20Developer-7C5CFF?style=for-the-badge&logo=react&logoColor=white" alt="Focus badge" />
-    <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-5F7BFF?style=for-the-badge" alt="Stack badge" />
-    <img src="https://img.shields.io/badge/Design-UI%2FUX-111827?style=for-the-badge&logo=figma&logoColor=white" alt="Design badge" />
-  </p>
+<p>
+  <a href="https://github.com/ENAK221?tab=repositories"><img src="https://img.shields.io/badge/Explorer_mes_projets-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorer mes projets" /></a>
+  <a href="https://minachat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 </div>
+
+---
 
 ## Bonjour 👋
 
-Je suis un développeur web full-stack passionné par les interfaces élégantes, les produits utiles et les experiences qui se sentent bonnes à utiliser.
+Je suis **Ousmane KANE**, développeur web full-stack. Je crée des applications modernes en accordant autant d’importance à la qualité de l’interface qu’à la solidité de l’architecture.
 
-J’aime créer des solutions qui allient :
-- design moderne et lisible
-- architecture propre et maintenable
-- performance et clarté
-- bon sens produit et attention aux détails
+Mon approche :
+
+- concevoir des interfaces claires, élégantes et accessibles ;
+- construire des applications rapides et responsives ;
+- garder un code lisible, évolutif et bien structuré ;
+- transformer une idée en expérience simple à utiliser.
 
 ```js
-const profile = {
-  role: "Full-Stack Developer",
-  focus: ["Frontend", "UX/UI", "Product thinking"],
-  stack: ["React", "Node.js", "PostgreSQL", "Tailwind"],
-  principle: "Build with purpose. Design with clarity."
+const profil = {
+  métier: "Développeur Full-Stack",
+  spécialités: ["React", "Node.js", "PostgreSQL", "UI/UX"],
+  objectif: "Créer des produits utiles, beaux et fiables",
+  philosophie: "Construire avec intention. Concevoir avec clarté."
 };
 ```
 
----
+## Projets sélectionnés
 
-## 🚀 Projets phares
+| Projet | Description | Technologies |
+|---|---|---|
+| [**Minachat**](https://github.com/ENAK221/minachat) | Application web moderne inspirée des réseaux sociaux, avec une expérience fluide et immersive. | React · Tailwind CSS · Node.js · PostgreSQL |
+| [**Edusphere**](https://github.com/ENAK221/Edusphere) | Projet TypeScript orienté vers une expérience d’apprentissage moderne, claire et accessible. | TypeScript · React |
+| [**My-portfolio**](https://github.com/ENAK221/My-portfolio) | Portfolio personnel présentant mes projets, mes compétences et mon parcours. | React · Vite · Tailwind CSS |
+| [**Chifoumi**](https://github.com/ENAK221/Chifoumi) | Jeu web simple réalisé pour travailler les interactions et les fondamentaux du front-end. | JavaScript · HTML · CSS |
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ENAK221/minachat"><img src="https://img.shields.io/badge/Minachat-voir_le_projet-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Voir Minachat" /></a>
+  <a href="https://github.com/ENAK221/Edusphere"><img src="https://img.shields.io/badge/Edusphere-voir_le_projet-2563EB?style=flat-square&logo=github&logoColor=white" alt="Voir Edusphere" /></a>
+  <a href="https://github.com/ENAK221/My-portfolio"><img src="https://img.shields.io/badge/Portfolio-voir_le_projet-0F766E?style=flat-square&logo=github&logoColor=white" alt="Voir le portfolio" /></a>
+</p>
 
-  <a href="https://github.com/ENAK221/minachat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=minachat&theme=radical&hide_border=true" alt="Projet Minachat" />
-  </a>
-  <a href="https://github.com/ENAK221/Edusphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=Edusphere&theme=radical&hide_border=true" alt="Projet Edusphere" />
-  </a>
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/ENAK221/My-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=My-portfolio&theme=radical&hide_border=true" alt="Projet My-portfolio" />
-  </a>
-  <a href="https://github.com/ENAK221/Chifoumi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ENAK221&repo=Chifoumi&theme=radical&hide_border=true" alt="Projet Chifoumi" />
-  </a>
-
-</div>
-
----
-
-## 🛠️ Stack
+## Stack technique
 
 <div align="center">
 
-| Frontend | Backend & Data | Outils |
+| Front-end | Back-end & données | Outils |
 |:---:|:---:|:---:|
-| JavaScript | Node.js | Git |
-| TypeScript | Express | GitHub |
-| React | PostgreSQL | Vite |
-| Tailwind CSS | REST APIs | Figma |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | REST APIs | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
----
+## Ce que je recherche
 
-## 📊 Statistiques GitHub
+- développer des interfaces qui donnent envie d’être utilisées ;
+- créer des produits web utiles et bien pensés ;
+- améliorer continuellement mes compétences techniques ;
+- collaborer sur des projets ambitieux et concrets.
+
+## Me retrouver
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ENAK221&show_icons=true&hide_border=true&theme=radical&title_color=8B5CF6&text_color=E2E8F0&icon_color=7C5CFF&ring_color=7C5CFF" alt="Statistiques GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENAK221&layout=compact&hide_border=true&theme=radical&title_color=8B5CF6&text_color=E2E8F0" alt="Langages les plus utilisés" />
+  <a href="https://github.com/ENAK221"><img src="https://img.shields.io/badge/GitHub-ENAK221-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub" /></a>
+  <a href="https://minachat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-minachat.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio en ligne" /></a>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ENAK221&theme=radical&hide_border=true&ring=7C5CFF&fire=F59E0B&currStreakLabel=E2E8F0&dates=94A3B8" alt="Contribution streak" />
-</p>
+<br />
 
----
+<div align="center">
 
-## ✨ Ce qui me motive
+> **Construire avec intention. Concevoir avec clarté.**
 
-- créer des pages web modernes et lisibles
-- améliorer l’expérience utilisateur sans perdre la qualité
-- développer des produits utiles et bien pensés
-- apprendre, itérer et livrer mieux chaque jour
-
----
-
-## 🌐 Liens
-
-- Portfolio : https://minachat.vercel.app
-- GitHub : https://github.com/ENAK221
-- Projet principal : https://github.com/ENAK221/minachat
-
-> La photo de profil principale doit être réglée dans les paramètres GitHub de ton compte. Le README ne peut pas remplacer l’avatar du profil officiel.
-
----
-
-<p align="center">
-  <b>Build with purpose. Design with clarity.</b>
-</p>
+</div>
